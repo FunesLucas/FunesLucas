@@ -4,12 +4,18 @@
 
 <imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 300px></imagen>
 
-- :escuela: Soy un `Junior` en la [Escuela de Ciencia y Tecnología Cibernéticas](https://cst.buaa.edu.cn/) en [BUAA](https://ev.buaa.edu.cn/ )
-- :trofeo: Finalista `2022 MCM/ICM` **&** 4x `Beca`
-- :tecnólogo: **Actualmente trabajando en** `Desarrollo Frontend` **&** `Ciencia de datos`
-- :boom: Puedes visitar [MI SITIO WEB](https://eliochiu.github.io) para obtener algunos conocimientos sobre frontend
-- :correo electrónico: No dude en **comunicarse conmigo** [![Envíeme un correo electrónico](https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style= cuadrado plano)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Siempre cree `"Eres lo que amas"`
+<h2> Acerca de mí </h2>
+
+
+- 🔭 Actualmente estoy trabajando en Soy Estudiante 
+  
+- 🌱 Actualmente estoy aprendiendo Git, Java y GitHub
+  
+- 👯 Busco colaborar en Proyectos
+  
+- 💬 Pregúntame sobre Sql, Java, C#, JavaScript
+  
+- ⚡ Dato curioso: Me gustan los girasoles.
 
 
 
