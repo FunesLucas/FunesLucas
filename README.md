@@ -40,11 +40,6 @@
 <br>
   <br>
   
-[![Gráfico de actividad de GitHub de Aditya](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Estadísticas de github de Aditya](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Racha de Aditya GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Estrellas de Github](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Tarjeta de Chistes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
