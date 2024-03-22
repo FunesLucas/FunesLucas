@@ -12,7 +12,7 @@
 
 - 💬 Pregúntame sobre programación en general, siempre estoy <br> disponible para ayudar y aprender juntos.
 
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz".
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
