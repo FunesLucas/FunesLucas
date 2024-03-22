@@ -1,4 +1,4 @@
-<imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 200px></imagen>
+<imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 50px></imagen>
 
 <h2> Acerca de mí </h2>
 
