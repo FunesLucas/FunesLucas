@@ -1,4 +1,4 @@
-<H2>Acerma de mi</H2>
+<H2>Acerca de mi</H2>
 
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
