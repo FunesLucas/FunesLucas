@@ -1,8 +1,8 @@
- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
+
 
 <h2> Acerca de mí </h2>
 
-
+ <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
 
 - 🔭 Actualmente estoy trabajando en Soy Estudiante
   
