@@ -41,7 +41,7 @@
   <br>
   
 
-![Tarjeta de Chistes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
