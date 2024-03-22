@@ -1,3 +1,19 @@
+<!--Acerca de mí-->
+
+## <imagen><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" ancho = 30px></imagen> Acerca de mí
+
+<imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 300px></imagen>
+
+- :escuela: Soy un `Junior` en la [Escuela de Ciencia y Tecnología Cibernéticas](https://cst.buaa.edu.cn/) en [BUAA](https://ev.buaa.edu.cn/ )
+- :trofeo: Finalista `2022 MCM/ICM` **&** 4x `Beca`
+- :tecnólogo: **Actualmente trabajando en** `Desarrollo Frontend` **&** `Ciencia de datos`
+- :boom: Puedes visitar [MI SITIO WEB](https://eliochiu.github.io) para obtener algunos conocimientos sobre frontend
+- :correo electrónico: No dude en **comunicarse conmigo** [![Envíeme un correo electrónico](https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style= cuadrado plano)](mailto:eliochiu2@gmail.com)
+- :nerd_face: Siempre cree `"Eres lo que amas"`
+
+
+
+
 <br> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px>
 
 
