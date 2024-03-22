@@ -1,4 +1,4 @@
-<imagen> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" ancho = 20px> </imagen>
+<imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 300px></imagen>
 
 <h2> Acerca de mí </h2>
 
