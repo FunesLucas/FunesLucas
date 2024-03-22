@@ -14,8 +14,6 @@
 
 
 
-<br> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px>
-
 
 <h2> Acerca de mí </h2>
 
