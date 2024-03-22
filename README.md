@@ -15,7 +15,7 @@
 - Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz".
 
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- Objetivos 2020: Contribuir a proyectos de código abierto`
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="centro">
