@@ -1,5 +1,5 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-<h2> Acerca de mí </h2>
+<h3> Acerca de mí </h3>
 
 
 - 🔭 Actualmente estoy trabajando en Soy Estudiante 
