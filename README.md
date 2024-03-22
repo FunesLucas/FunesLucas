@@ -1,6 +1,3 @@
-<!--Acerca de mí-->
-
-## <imagen><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" ancho = 30px></imagen> Acerca de mí
 
 <imagen> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" ancho = 300px></imagen>
 
