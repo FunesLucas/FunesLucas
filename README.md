@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 - 💬 Pregúntame sobre programación en general, siempre estoy <br> disponible para ayudar y aprender juntos.
   
-- Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz".
+- 💡 Mi frase es "Nunca es demasiado tarde, nunca es demasiado tarde para empezar de nuevo, nunca es demasiado tarde para ser feliz".
 - Objetivos 2024: Contribuir a proyectos de código abierto`
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
