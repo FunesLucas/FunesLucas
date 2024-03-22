@@ -1,7 +1,7 @@
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 <h2> Acerca de mí </h2>
 
-
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 - 🔭 Actualmente estoy trabajando en Soy Estudiante 
   
 - 🌱 Actualmente estoy aprendiendo Git, Java y GitHub
